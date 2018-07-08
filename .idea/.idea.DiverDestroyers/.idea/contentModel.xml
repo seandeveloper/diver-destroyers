@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Sean Knowles\.Rider2018.1\system\resharper-host\Local\Transient\ReSharperHost\v12\SolutionCaches\_DiverDestroyers.559961199.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Sean Knowles\RiderProjects\DiverDestroyers" t="IncludeFlat">
+      <e p="DiverDestroyers" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Characters" t="Include">
+          <e p="DiveTeam" t="Include">
+            <e p="Diver.cs" t="Include" />
+            <e p="DiverMedic.cs" t="Include" />
+            <e p="Supervisor.cs" t="Include" />
+          </e>
+          <e p="OfficeStaff" t="Include">
+            <e p="BossMan.cs" t="Include" />
+            <e p="CrewingManager.cs" t="Include" />
+            <e p="OperationsManager.cs" t="Include" />
+          </e>
+        </e>
+        <e p="DiverDestroyers.csproj" t="IncludeRecursive" />
+        <e p="DiverDestroyers.csproj.DotSettings" t="Include" />
+        <e p="Equipment" t="Include">
+          <e p="Armour" t="Include">
+            <e p="Arvests.cs" t="Include" />
+            <e p="DrySuits.cs" t="Include" />
+            <e p="InsuranceCover.cs" t="Include" />
+            <e p="LegalDefence.cs" t="Include" />
+            <e p="NuitSuits.cs" t="Include" />
+          </e>
+          <e p="Weapons" t="Include">
+            <e p="Axes.cs" t="Include" />
+            <e p="Blades.cs" t="Include" />
+            <e p="Cannular.cs" t="Include" />
+            <e p="Catheter.cs" t="Include" />
+            <e p="HeavyLoads.cs" t="Include" />
+            <e p="HPGuns.cs" t="Include" />
+            <e p="ToxicGas.cs" t="Include" />
+          </e>
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="DiverDestroyers.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="DiverDestroyers.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

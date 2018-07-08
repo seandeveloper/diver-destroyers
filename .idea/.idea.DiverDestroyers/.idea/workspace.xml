@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a8f6ce1d-ea1e-4c8e-a368-10a3e76d17cc" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Blades.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DiverDestroyers/Equipment/Weapons/Blades.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+              <folding>
+                <marker date="1530958734694" expanded="true" signature="58:401" ph="{...}" />
+                <marker date="1530958734694" expanded="true" signature="84:399" ph="{...}" />
+                <marker date="1530958734694" expanded="true" signature="146:230" ph="{...}" />
+                <marker date="1530958734694" expanded="true" signature="255:288" ph="{...}" />
+                <marker date="1530958734694" expanded="true" signature="324:393" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Diver.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DiverDestroyers/Characters/DiveTeam/Diver.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="42" column="9" lean-forward="true" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
+              <folding>
+                <marker date="1530962893823" expanded="false" signature="6:118" ph="..." />
+                <marker date="1530962893823" expanded="true" signature="165:2052" ph="{...}" />
+                <marker date="1530962893823" expanded="true" signature="190:2050" ph="{...}" />
+                <marker date="1530962893823" expanded="false" signature="531:757" ph="{...}" />
+                <marker date="1530962893823" expanded="false" signature="592:747" ph="{...}" />
+                <marker date="1530962893823" expanded="true" signature="653:733" ph="{...}" />
+                <marker date="1530962893823" expanded="false" signature="790:886" ph="{...}" />
+                <marker date="1530962893823" expanded="false" signature="912:994" ph="{...}" />
+                <marker date="1530962893823" expanded="false" signature="1022:1102" ph="{...}" />
+                <marker date="1530962893823" expanded="false" signature="1133:1219" ph="{...}" />
+                <marker date="1530962893823" expanded="true" signature="1253:1465" ph="{...}" />
+                <marker date="1530962893823" expanded="true" signature="1311:1455" ph="{...}" />
+                <marker date="1530962893823" expanded="true" signature="1364:1441" ph="{...}" />
+                <marker date="1530962893823" expanded="true" signature="1535:1619" ph="{...}" />
+                <marker date="1530962893823" expanded="true" signature="1666:1699" ph="{...}" />
+                <marker date="1530962893823" expanded="true" signature="1758:1827" ph="{...}" />
+                <marker date="1530962893823" expanded="true" signature="1862:1931" ph="{...}" />
+                <marker date="1530962893823" expanded="true" signature="1975:2044" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/DiverDestroyers/Characters/DiveTeam/Supervisor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DiverDestroyers/Equipment/Armour/Arvests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DiverDestroyers/Characters/DiveTeam/DiverMedic.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DiverDestroyers/Characters/DiveTeam/Diver.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DiverDestroyers/Equipment/Weapons/HpGuns.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DiverDestroyers/Equipment/Weapons/ToxicGas.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DiverDestroyers/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DiverDestroyers/Characters/OfficeStaff/BossMan.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DiverDestroyers/Equipment/Weapons/Cannular.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DiverDestroyers/Characters/OfficeStaff/OperationsManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DiverDestroyers/Equipment/Weapons/HeavyLoads.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DiverDestroyers/Equipment/Weapons/Catheter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DiverDestroyers/Characters/OfficeStaff/CrewingManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DiverDestroyers/Equipment/Armour/NuitSuits.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DiverDestroyers/Equipment/Weapons/Axes.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DiverDestroyers/Equipment/Armour/InsuranceCover.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DiverDestroyers/Equipment/Armour/DrySuits.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DiverDestroyers/Equipment/Armour/LegalDefence.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DiverDestroyers/Equipment/Weapons/Blades.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/DiverDestroyers/Characters/DiveTeam/LeadDiver.cs" />
+        <option value="$PROJECT_DIR$/DiverDestroyers/Equipment/Weapons/Knives.cs" />
+        <option value="$PROJECT_DIR$/DiverDestroyers/Equipment/Weapons/Hammers.cs" />
+        <option value="$PROJECT_DIR$/DiverDestroyers/Equipment/Weapons/Hooks.cs" />
+        <option value="$PROJECT_DIR$/DiverDestroyers/Equipment/Weapons/MedicBox.cs" />
+        <option value="$PROJECT_DIR$/DiverDestroyers/Equipment/Armour/DrySuits.cs" />
+        <option value="$PROJECT_DIR$/DiverDestroyers/Equipment/Armour/NuitSuits.cs" />
+        <option value="$PROJECT_DIR$/DiverDestroyers/Equipment/Armour/Arvests.cs" />
+        <option value="$PROJECT_DIR$/DiverDestroyers/Characters/OfficeStaff/CrewingManager.cs" />
+        <option value="$PROJECT_DIR$/DiverDestroyers/Characters/OfficeStaff/BossMan.cs" />
+        <option value="$PROJECT_DIR$/DiverDestroyers/Characters/OfficeStaff/OperationsManager.cs" />
+        <option value="$PROJECT_DIR$/DiverDestroyers/Characters/DiveTeam/Supervisor.cs" />
+        <option value="$PROJECT_DIR$/DiverDestroyers/Equipment/Weapons/Catheter.cs" />
+        <option value="$PROJECT_DIR$/DiverDestroyers/Equipment/Weapons/Cannular.cs" />
+        <option value="$PROJECT_DIR$/DiverDestroyers/Characters/DiveTeam/DiverMedic.cs" />
+        <option value="$PROJECT_DIR$/DiverDestroyers/Equipment/Weapons/HeavyLoad.cs" />
+        <option value="$PROJECT_DIR$/DiverDestroyers/Equipment/Weapons/HPGuns.cs" />
+        <option value="$PROJECT_DIR$/DiverDestroyers/Equipment/Armour/LegalDefence.cs" />
+        <option value="$PROJECT_DIR$/DiverDestroyers/Equipment/Armour/InsuranceCover.cs" />
+        <option value="$PROJECT_DIR$/DiverDestroyers/Equipment/Weapons/Axes.cs" />
+        <option value="$PROJECT_DIR$/DiverDestroyers/Equipment/Weapons/Blades.cs" />
+        <option value="$PROJECT_DIR$/DiverDestroyers/Equipment/Weapons/HeavyLoads.cs" />
+        <option value="$PROJECT_DIR$/DiverDestroyers/Equipment/Weapons/HpGuns.cs" />
+        <option value="$PROJECT_DIR$/DiverDestroyers/Equipment/Weapons/ToxicGas.cs" />
+        <option value="$PROJECT_DIR$/DiverDestroyers/Characters/DiveTeam/Diver.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-10" />
+    <option name="y" value="-1" />
+    <option name="width" value="992" />
+    <option name="height" value="1088" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="DiverDestroyers (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="DiverDestroyers (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="DiverDestroyers" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="DiverDestroyers (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="DiverDestroyers" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Characters" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="DiverDestroyers (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="DiverDestroyers" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Equipment" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="DiverDestroyers (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="DiverDestroyers" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Equipment" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Armour" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="DiverDestroyers (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="DiverDestroyers" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Equipment" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Weapons" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8f6ce1d-ea1e-4c8e-a368-10a3e76d17cc" name="Default" comment="" />
+      <created>1530902635274</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530902635274</updated>
+      <workItem from="1530902636610" duration="5326000" />
+      <workItem from="1530952782076" duration="11560000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="16886000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-10" y="-1" width="992" height="1088" extended-state="0" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3168421" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2274678" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/DiverDestroyers/Equipment/Weapons/Blades.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <marker date="1530958734694" expanded="true" signature="58:401" ph="{...}" />
+            <marker date="1530958734694" expanded="true" signature="84:399" ph="{...}" />
+            <marker date="1530958734694" expanded="true" signature="146:230" ph="{...}" />
+            <marker date="1530958734694" expanded="true" signature="255:288" ph="{...}" />
+            <marker date="1530958734694" expanded="true" signature="324:393" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DiverDestroyers/Equipment/Armour/Arvests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+          <folding>
+            <marker date="1530907292022" expanded="true" signature="69:174" ph="{...}" />
+            <marker date="1530907292022" expanded="true" signature="135:168" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DiverDestroyers/Characters/DiveTeam/Diver.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+          <folding>
+            <marker date="1530962893823" expanded="false" signature="6:118" ph="..." />
+            <marker date="1530962893823" expanded="true" signature="165:2052" ph="{...}" />
+            <marker date="1530962893823" expanded="true" signature="190:2050" ph="{...}" />
+            <marker date="1530962893823" expanded="false" signature="531:757" ph="{...}" />
+            <marker date="1530962893823" expanded="false" signature="592:747" ph="{...}" />
+            <marker date="1530962893823" expanded="true" signature="653:733" ph="{...}" />
+            <marker date="1530962893823" expanded="false" signature="790:886" ph="{...}" />
+            <marker date="1530962893823" expanded="false" signature="912:994" ph="{...}" />
+            <marker date="1530962893823" expanded="false" signature="1022:1102" ph="{...}" />
+            <marker date="1530962893823" expanded="false" signature="1133:1219" ph="{...}" />
+            <marker date="1530962893823" expanded="true" signature="1253:1465" ph="{...}" />
+            <marker date="1530962893823" expanded="true" signature="1311:1455" ph="{...}" />
+            <marker date="1530962893823" expanded="true" signature="1364:1441" ph="{...}" />
+            <marker date="1530962893823" expanded="true" signature="1535:1619" ph="{...}" />
+            <marker date="1530962893823" expanded="true" signature="1666:1699" ph="{...}" />
+            <marker date="1530962893823" expanded="true" signature="1758:1827" ph="{...}" />
+            <marker date="1530962893823" expanded="true" signature="1862:1931" ph="{...}" />
+            <marker date="1530962893823" expanded="true" signature="1975:2044" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DiverDestroyers/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1530902641875" expanded="true" signature="60:179" ph="{...}" />
+            <marker date="1530902641875" expanded="true" signature="106:173" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DiverDestroyers/Equipment/Weapons/Hammers.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DiverDestroyers/Equipment/Armour/DrySuits.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+          <folding>
+            <marker date="1530905111825" expanded="true" signature="70:91" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DiverDestroyers/Equipment/Armour/NuitSuits.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+          <folding>
+            <marker date="1530905146215" expanded="true" signature="71:92" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DiverDestroyers/Equipment/Armour/Arvests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+          <folding>
+            <marker date="1530907292022" expanded="true" signature="69:174" ph="{...}" />
+            <marker date="1530907292022" expanded="true" signature="135:168" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DiverDestroyers/Characters/OfficeStaff/BossMan.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="611">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
+          <folding>
+            <marker date="1530955745705" expanded="true" signature="66:1590" ph="{...}" />
+            <marker date="1530955745705" expanded="true" signature="93:1588" ph="{...}" />
+            <marker date="1530955745705" expanded="false" signature="435:533" ph="{...}" />
+            <marker date="1530955745705" expanded="false" signature="566:662" ph="{...}" />
+            <marker date="1530955745705" expanded="false" signature="688:770" ph="{...}" />
+            <marker date="1530955745705" expanded="false" signature="798:878" ph="{...}" />
+            <marker date="1530955745705" expanded="false" signature="909:995" ph="{...}" />
+            <marker date="1530955745705" expanded="false" signature="1029:1121" ph="{...}" />
+            <marker date="1530955745705" expanded="false" signature="1153:1239" ph="{...}" />
+            <marker date="1530955745705" expanded="true" signature="1296:1329" ph="{...}" />
+            <marker date="1530955745705" expanded="true" signature="1393:1426" ph="{...}" />
+            <marker date="1530955745705" expanded="true" signature="1469:1502" ph="{...}" />
+            <marker date="1530955745705" expanded="true" signature="1549:1582" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DiverDestroyers/Characters/OfficeStaff/OperationsManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="74" column="46" lean-forward="true" selection-start-line="74" selection-start-column="46" selection-end-line="74" selection-end-column="46" />
+          <folding>
+            <marker date="1530955788571" expanded="true" signature="48:1581" ph="{...}" />
+            <marker date="1530955788571" expanded="true" signature="85:1579" ph="{...}" />
+            <marker date="1530955788571" expanded="false" signature="427:525" ph="{...}" />
+            <marker date="1530955788571" expanded="false" signature="558:654" ph="{...}" />
+            <marker date="1530955788571" expanded="false" signature="680:762" ph="{...}" />
+            <marker date="1530955788571" expanded="false" signature="790:870" ph="{...}" />
+            <marker date="1530955788571" expanded="false" signature="901:987" ph="{...}" />
+            <marker date="1530955788571" expanded="false" signature="1021:1113" ph="{...}" />
+            <marker date="1530955788571" expanded="false" signature="1145:1231" ph="{...}" />
+            <marker date="1530955788571" expanded="true" signature="1290:1323" ph="{...}" />
+            <marker date="1530955788571" expanded="true" signature="1386:1419" ph="{...}" />
+            <marker date="1530955788571" expanded="true" signature="1459:1492" ph="{...}" />
+            <marker date="1530955788571" expanded="true" signature="1540:1573" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DiverDestroyers/Characters/OfficeStaff/CrewingManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="37" column="9" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
+          <folding>
+            <marker date="1530955724046" expanded="true" signature="48:1587" ph="{...}" />
+            <marker date="1530955724046" expanded="true" signature="82:1585" ph="{...}" />
+            <marker date="1530955724046" expanded="false" signature="424:522" ph="{...}" />
+            <marker date="1530955724046" expanded="false" signature="555:651" ph="{...}" />
+            <marker date="1530955724046" expanded="false" signature="677:759" ph="{...}" />
+            <marker date="1530955724046" expanded="true" signature="787:867" ph="{...}" />
+            <marker date="1530955724046" expanded="false" signature="898:984" ph="{...}" />
+            <marker date="1530955724046" expanded="false" signature="1018:1110" ph="{...}" />
+            <marker date="1530955724046" expanded="false" signature="1142:1228" ph="{...}" />
+            <marker date="1530955724046" expanded="true" signature="1293:1326" ph="{...}" />
+            <marker date="1530955724046" expanded="true" signature="1393:1426" ph="{...}" />
+            <marker date="1530955724046" expanded="true" signature="1470:1503" ph="{...}" />
+            <marker date="1530955724046" expanded="true" signature="1546:1579" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DiverDestroyers/Characters/DiveTeam/Supervisor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="79" column="12" selection-start-line="79" selection-start-column="12" selection-end-line="79" selection-end-column="12" />
+          <folding>
+            <marker date="1530955890642" expanded="false" signature="6:80" ph="..." />
+            <marker date="1530955890642" expanded="true" signature="127:1663" ph="{...}" />
+            <marker date="1530955890642" expanded="true" signature="157:1661" ph="{...}" />
+            <marker date="1530955890642" expanded="false" signature="499:597" ph="{...}" />
+            <marker date="1530955890642" expanded="false" signature="630:726" ph="{...}" />
+            <marker date="1530955890642" expanded="false" signature="752:834" ph="{...}" />
+            <marker date="1530955890642" expanded="false" signature="862:942" ph="{...}" />
+            <marker date="1530955890642" expanded="false" signature="973:1059" ph="{...}" />
+            <marker date="1530955890642" expanded="false" signature="1093:1185" ph="{...}" />
+            <marker date="1530955890642" expanded="false" signature="1217:1303" ph="{...}" />
+            <marker date="1530955890642" expanded="true" signature="1364:1397" ph="{...}" />
+            <marker date="1530955890642" expanded="true" signature="1465:1498" ph="{...}" />
+            <marker date="1530955890642" expanded="true" signature="1545:1578" ph="{...}" />
+            <marker date="1530955890642" expanded="true" signature="1622:1655" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DiverDestroyers/Characters/DiveTeam/DiverMedic.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="88" column="1" selection-start-line="88" selection-start-column="1" selection-end-line="88" selection-end-column="1" />
+          <folding>
+            <marker date="1530957350294" expanded="true" signature="6:80" ph="..." />
+            <marker date="1530957350294" expanded="true" signature="127:1846" ph="{...}" />
+            <marker date="1530957350294" expanded="true" signature="157:1844" ph="{...}" />
+            <marker date="1530957350294" expanded="false" signature="534:632" ph="{...}" />
+            <marker date="1530957350294" expanded="false" signature="673:769" ph="{...}" />
+            <marker date="1530957350294" expanded="false" signature="803:885" ph="{...}" />
+            <marker date="1530957350294" expanded="false" signature="921:1001" ph="{...}" />
+            <marker date="1530957350294" expanded="false" signature="1040:1126" ph="{...}" />
+            <marker date="1530957350294" expanded="false" signature="1166:1254" ph="{...}" />
+            <marker date="1530957350294" expanded="false" signature="1288:1376" ph="{...}" />
+            <marker date="1530957350294" expanded="false" signature="1408:1494" ph="{...}" />
+            <marker date="1530957350294" expanded="true" signature="1555:1588" ph="{...}" />
+            <marker date="1530957350294" expanded="true" signature="1653:1686" ph="{...}" />
+            <marker date="1530957350294" expanded="true" signature="1724:1757" ph="{...}" />
+            <marker date="1530957350294" expanded="true" signature="1805:1838" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DiverDestroyers/Equipment/Weapons/Hooks.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DiverDestroyers/Equipment/Armour/LegalDefence.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+          <folding>
+            <marker date="1530957808101" expanded="true" signature="42:97" ph="{...}" />
+            <marker date="1530957808101" expanded="true" signature="74:95" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DiverDestroyers/Equipment/Armour/InsuranceCover.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding>
+            <marker date="1530957823016" expanded="true" signature="42:99" ph="{...}" />
+            <marker date="1530957823016" expanded="true" signature="76:97" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DiverDestroyers/Equipment/Weapons/Axes.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+          <folding>
+            <marker date="1530958678013" expanded="true" signature="58:397" ph="{...}" />
+            <marker date="1530958678013" expanded="true" signature="82:395" ph="{...}" />
+            <marker date="1530958678013" expanded="true" signature="144:228" ph="{...}" />
+            <marker date="1530958678013" expanded="true" signature="251:284" ph="{...}" />
+            <marker date="1530958678013" expanded="true" signature="320:389" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DiverDestroyers/Equipment/Weapons/Cannular.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+          <folding>
+            <marker date="1530956686757" expanded="true" signature="58:348" ph="{...}" />
+            <marker date="1530956686757" expanded="true" signature="86:346" ph="{...}" />
+            <marker date="1530956686757" expanded="true" signature="148:232" ph="{...}" />
+            <marker date="1530956686757" expanded="true" signature="271:340" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DiverDestroyers/Equipment/Weapons/Catheter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding>
+            <marker date="1530956640396" expanded="true" signature="58:348" ph="{...}" />
+            <marker date="1530956640396" expanded="true" signature="86:346" ph="{...}" />
+            <marker date="1530956640396" expanded="true" signature="148:232" ph="{...}" />
+            <marker date="1530956640396" expanded="true" signature="271:340" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DiverDestroyers/Equipment/Weapons/HeavyLoads.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+          <folding>
+            <marker date="1530958715015" expanded="true" signature="58:409" ph="{...}" />
+            <marker date="1530958715015" expanded="true" signature="88:407" ph="{...}" />
+            <marker date="1530958715015" expanded="true" signature="150:234" ph="{...}" />
+            <marker date="1530958715015" expanded="true" signature="263:296" ph="{...}" />
+            <marker date="1530958715015" expanded="true" signature="332:401" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DiverDestroyers/Equipment/Weapons/HpGuns.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          <folding>
+            <marker date="1530958715039" expanded="true" signature="58:400" ph="{...}" />
+            <marker date="1530958715039" expanded="true" signature="84:398" ph="{...}" />
+            <marker date="1530958715039" expanded="true" signature="146:230" ph="{...}" />
+            <marker date="1530958715039" expanded="true" signature="255:288" ph="{...}" />
+            <marker date="1530958715039" expanded="true" signature="323:392" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DiverDestroyers/Equipment/Weapons/ToxicGas.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+          <folding>
+            <marker date="1530958710628" expanded="true" signature="58:410" ph="{...}" />
+            <marker date="1530958710628" expanded="true" signature="86:408" ph="{...}" />
+            <marker date="1530958710628" expanded="true" signature="148:232" ph="{...}" />
+            <marker date="1530958710628" expanded="true" signature="259:292" ph="{...}" />
+            <marker date="1530958710628" expanded="true" signature="333:402" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DiverDestroyers/Equipment/Weapons/Blades.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+          <folding>
+            <marker date="1530958734694" expanded="true" signature="58:401" ph="{...}" />
+            <marker date="1530958734694" expanded="true" signature="84:399" ph="{...}" />
+            <marker date="1530958734694" expanded="true" signature="146:230" ph="{...}" />
+            <marker date="1530958734694" expanded="true" signature="255:288" ph="{...}" />
+            <marker date="1530958734694" expanded="true" signature="324:393" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DiverDestroyers/Characters/DiveTeam/Diver.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="42" column="9" lean-forward="true" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
+          <folding>
+            <marker date="1530962893823" expanded="false" signature="6:118" ph="..." />
+            <marker date="1530962893823" expanded="true" signature="165:2052" ph="{...}" />
+            <marker date="1530962893823" expanded="true" signature="190:2050" ph="{...}" />
+            <marker date="1530962893823" expanded="false" signature="531:757" ph="{...}" />
+            <marker date="1530962893823" expanded="false" signature="592:747" ph="{...}" />
+            <marker date="1530962893823" expanded="true" signature="653:733" ph="{...}" />
+            <marker date="1530962893823" expanded="false" signature="790:886" ph="{...}" />
+            <marker date="1530962893823" expanded="false" signature="912:994" ph="{...}" />
+            <marker date="1530962893823" expanded="false" signature="1022:1102" ph="{...}" />
+            <marker date="1530962893823" expanded="false" signature="1133:1219" ph="{...}" />
+            <marker date="1530962893823" expanded="true" signature="1253:1465" ph="{...}" />
+            <marker date="1530962893823" expanded="true" signature="1311:1455" ph="{...}" />
+            <marker date="1530962893823" expanded="true" signature="1364:1441" ph="{...}" />
+            <marker date="1530962893823" expanded="true" signature="1535:1619" ph="{...}" />
+            <marker date="1530962893823" expanded="true" signature="1666:1699" ph="{...}" />
+            <marker date="1530962893823" expanded="true" signature="1758:1827" ph="{...}" />
+            <marker date="1530962893823" expanded="true" signature="1862:1931" ph="{...}" />
+            <marker date="1530962893823" expanded="true" signature="1975:2044" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
